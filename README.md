@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 This website is designed to show my proficiency in "on the job tickets" and my ability to refactor existing code while satisfying the user story and acceptance criteria. The external URL for this study guide is: https://chuca78.github.io/Mini-Project-01/
-UT_Austin\Mini-Project-01\images\localhost_1932_UT_Austin_Mini-Project-01_index.html.png
+
 
 ## Credits
 
