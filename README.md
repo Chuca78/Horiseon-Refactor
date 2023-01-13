@@ -1,4 +1,4 @@
-# Mini-Project-01 Webpage
+# Horiseon Webpage Refactor
 
 ## Description
 
